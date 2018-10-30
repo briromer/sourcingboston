@@ -52,21 +52,37 @@ time | event
 ### five
 
 ## code of conduct
-play nice
+* arrive with an open mind, ready to collaborate
+* empower people to contribute to your project
+* respect others' opinions and abilities
+* no harassment of any kind will be tolerated
+
+I
 
 ## tools and languages
 
 ### data processing and analysis
 * [RStudio](https://www.rstudio.com/products/rstudio/)
-
+* [OpenRefine](http://openrefine.org/)
+* [Trifacta](https://www.trifacta.com/start-wrangling/)
+* [Neo4j](https://neo4j.com/)
 
 
 ### visualization and design
 * [Flourish](https://flourish.studio/)
+* [DataWrapper](https://www.datawrapper.de/)
 * [Data Illustrator](http://data-illustrator.com/)
+* [Knight Lab Storytelling Tools](https://knightlab.northwestern.edu/projects/)
 * [Charticulator](https://charticulator.com/)
 * [RAW Graphs](https://rawgraphs.io/)
+* [Carto](https://carto.com/)
+* [kepler.gl](http://kepler.gl/#/)
 
+## speakers
+
+* Chris Bosso, Northeastern
+* Tim Reardon, MAPC
+* Brian Romer, Thomson Reuters
 
 ## judging
 ### How will projects be judged?
@@ -85,6 +101,12 @@ Over **$2000** of prizes and giveaways will be given out, including a Fire HD 8 
 ## sourcecode
 
 Participants will be asked to share 
+
+## sponsors
+
+* Northeastern University’s Global Resilience Institute
+* Thomson Reuters Labs
+* R Studio
 
 
 
