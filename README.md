@@ -1,32 +1,28 @@
 ## Sourcing Boston: Hackathon Nov 10-11
 
-You can use the [editor on GitHub](https://github.com/briromer/sourcingboston/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## logistics
+location, times, practical on the ground stuff
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## project directions
 
-### Markdown
+### one
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### two
 
-```markdown
-Syntax highlighted code block
+### three
 
-# Header 1
-## Header 2
-### Header 3
+### four
 
-- Bulleted
-- List
+### five
 
-1. Numbered
-2. List
+## code of conduct
+play nice
 
-**Bold** and _Italic_ and `Code` text
+## judging
 
-[Link](url) and ![Image](src)
-```
+## prizes
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## sourcecode
 
 ### Jekyll Themes
 
