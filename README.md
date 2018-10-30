@@ -19,6 +19,8 @@ The hackathon will start with coffee, snacks and lightning talks in Behrakis Hal
 
 [view on google maps](https://www.google.com/maps/place/Behrakis+Health+Sciences+Center,+30+Leon+St,+Boston,+MA+02115/@42.3371872,-71.0941257,16.34z/data=!4m5!3m4!1s0x89e37a2186d3bb6f:0xfd38cae6175b8ff6!8m2!3d42.3367142!4d-71.0916533)
 
+Lunches, snacks and drinks will be provided throughout the weekend.
+
 ### timing
 
 #### Sat Nov 10
