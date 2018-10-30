@@ -7,12 +7,14 @@ How stable and just is Boston's food system? What does it look like, in size and
 
 On the weekend of November 10th and 11th, Northeastern University’s College of Arts, Media and Design and the Global Resilience Institute will host “Resilience Storytelling,” a hackathon where participants will explore data – from economic to environmental science to urban planning – to tell compelling stories and draw insights about food insecurity, economic disruption and resilience.
 
-This event, in partnership with Thomson Reuters Labs and RStudio, will challenge participants to leverage data, analytics and visualization to find new ways of telling stories and deriving insights about how climate change and other shocks can disrupt food systems, supply chains and basic infrastructure in Boston.
+This event, in partnership with [Thomson Reuters Labs](https://innovation.thomsonreuters.com/en/labs.html) and [RStudio](https://www.rstudio.com/), will challenge participants to leverage data, analytics and visualization to find new ways of telling stories and deriving insights about how climate change and other shocks can disrupt food systems, supply chains and basic infrastructure in Boston.
 
 [register on eventbrite](http://bit.ly/sourcingboston)
 
 ## logistics
-The hackathon begins at 9:30am on Saturday November 10th. Our venue is Behrakis Hall 320, at 30 Leon Street, Boston.
+
+
+The hackathon will start with coffee, snacks and lightning talks in Behrakis Hall 320 (30 Leon Street, Boston), and then move to breakout sessions in Ryder Hall rooms 399, 399A, 403 and 405. 
 
 ![map of 30 Leon St Boston](images/map.png)
 
@@ -21,8 +23,21 @@ The hackathon begins at 9:30am on Saturday November 10th. Our venue is Behrakis 
 ### timing
 
 #### Sat Nov 10
+time | event
+------- | --------
+9:30 | arrive
+10:00-10:15 | lightning talks
+4:00 | break
+
+
 
 #### Sun Nov 11
+time | event
+------- | --------
+10:00 | arrive
+10:30-10:45 | lightning talks
+1:00 | judging and prizes
+2:00 | wrapup
 
 ## project directions
 
@@ -39,11 +54,37 @@ The hackathon begins at 9:30am on Saturday November 10th. Our venue is Behrakis 
 ## code of conduct
 play nice
 
+## tools and languages
+
+### data processing and analysis
+* [RStudio](https://www.rstudio.com/products/rstudio/)
+
+
+
+### visualization and design
+* [Flourish](https://flourish.studio/)
+* [Data Illustrator](http://data-illustrator.com/)
+* [Charticulator](https://charticulator.com/)
+* [RAW Graphs](https://rawgraphs.io/)
+
+
 ## judging
+### How will projects be judged?
+
+On Sunday at 1pm, a panel of Northeastern professors and industry experts will judge projects on the following criteria:
+
+* *Clarity*: Does the project make sense and communicate well? Is it easy to understand, use and gain insight from?
+* *Accuracy*: Are the data correctly sourced, well-curated and well cleaned? Can we trace the sources back to verify the results?
+* *Interesting Research Question and Analytic Value*: Can you provide data-driven answers which are hard to get elsewhere?
+* *Aesthetics*: Is it beautiful and a joy to use?
+Extensibility: Could this be extended and/or incorporated into a larger system?
 
 ## prizes
+Over **$2000** of prizes and giveaways will be given out, including a Fire HD 8 Tablet, GoPro Hero4 Session camera, Anker Soundcore Bluetooth speaker, a FlashForge 3D Printer and many more!
 
 ## sourcecode
+
+Participants will be asked to share 
 
 
 
