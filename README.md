@@ -27,7 +27,12 @@ Lunches, snacks and drinks will be provided throughout the weekend.
 time | event
 ------- | --------
 9:30 | arrive
+9:45 | intros - judging, prizes, schedule
 10:00-10:15 | lightning talks
+10:15 | project pitches
+10:20 | start hacking
+12:15-12:45 | lunch
+2:00 | talk showing
 4:00 | break
 
 
@@ -37,6 +42,7 @@ time | event
 ------- | --------
 10:00 | arrive
 10:30-10:45 | lightning talks
+12:00 | lunch
 1:00 | judging and prizes
 2:00 | wrapup
 
