@@ -1,4 +1,3 @@
-## Sourcing Boston: A Food Security and Resilience Hackathon
 ##### Visualizing the impact of climate change and other shocks to Boston's food system
 
 ## overview
