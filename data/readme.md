@@ -56,3 +56,7 @@ Global Trade Data
 [Unicef report](https://data.unicef.org/resources/state-food-security-nutrition-world/)  
 
 [National Health and Nutrition Examination Survey](https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/FSQ_H.htm)
+
+[Data Africa](https://dataafrica.io/)
+
+[
