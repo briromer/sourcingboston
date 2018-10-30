@@ -51,13 +51,17 @@ time | event
 
 ### five
 
+## data sets
+
+see the full listing of data sets [here](data/)
+
 ## code of conduct
 * arrive with an open mind, ready to collaborate
 * empower people to contribute to your project
 * respect others' opinions and abilities
 * no harassment of any kind will be tolerated
 
-I
+If someone is behaving below these expectations and you can't resolve the issue, please contact the hackathon organizers at [email address]
 
 ## tools and languages
 
