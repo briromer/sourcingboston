@@ -15,8 +15,10 @@ Local farms and their local supply chains into boston
 Socio-economic inequality in boston due to food deserts / cost of healthy food
 [Mass Food Accessibility index - Tufts](https://as.tufts.edu/uep/sites/all/themes/asbase/assets/documents/fieldProjectReports/2016/MAfoodAccessIndex.pdf)
 
-[USDA Food Access Atlas](https://www.ers.usda.gov/data-products/food-access-research-atlas/go-to-the-atlas/)
-
+[USDA Food Data](https://www.ers.usda.gov/data-products/)
+	[Food availability](https://www.ers.usda.gov/data-products/food-availability-per-capita-data-system/)
+	[Food atlas](https://www.ers.usda.gov/data-products/food-access-research-atlas/go-to-the-atlas/)
+	[Food composition](https://ndb.nal.usda.gov/ndb/)
 Public health impacts of these inequalities 
 
 [Health of Boston Report (State)](http://www.bphc.org/healthdata/health-of-boston-report/Documents/HOB-2014-2015/2_SocDetermin_HOB%202014-2015.pdf)
