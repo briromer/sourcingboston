@@ -2,8 +2,7 @@
 
 
 ### Boston-local data
-[Boston Food access open data]
-(https://www.boston.gov/departments/food-access)
+[Boston Food access open data](https://www.boston.gov/departments/food-access)
  
 
 [Project Bread Massachusetts](http://www.projectbread.org/get-the-facts/)
