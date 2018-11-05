@@ -25,7 +25,7 @@ Lunches, snacks and drinks will be provided throughout the weekend.
 
 #### Sat Nov 10
 time | event
-------- | --------
+------------- | -------------
 9:30 | arrive
 9:45 | intros - judging, prizes, schedule
 10:00-10:15 | lightning talks
@@ -39,7 +39,7 @@ time | event
 
 #### Sun Nov 11
 time | event
-------- | --------
+------------- | -------------
 10:00 | arrive
 10:30-10:45 | lightning talks
 12:00 | lunch
@@ -48,15 +48,21 @@ time | event
 
 ## project directions
 
-### one
 
-### two
+### 1. Food supply chain chokepoints
+How does Boston-area food get here? Where are the distribution centers? How much, and what kinds of our food are locally sourced? What woud happen to our current supply chain if sea levels rise?
 
-### three
+### 2. Food desert exploration
+Access to good, affordable food isn't a feature of every neighborhood. Which ones have the best, and which ones the least? How do we measure access to food - in number of groceries and their distance? What about how much time it takes to access food etc? [needs work] 
 
-### four
+### 3. Changing weather patterns
+Climate change is already altering seasonal patterns, ocean surface temperature, the number and intensity of tropical storms, and polar ice. How do these changes affect our ability to produce and transport food? Which crops - among the ones we import the most, and the ones we produce the most - are most vulnerable to climate change? How will Massachussets fisheries be affected? 
 
-### five
+### 4. Comparative costs of food
+For residents of the greater Boston area, how much do we spend on food in relation to our incomes? For those who have difficulty accessing good quality food, what other costs are associated with that? 
+
+### 5. Relative food wealth
+When it comes to food availability, quality and cost, how does Boston compare to other urban areas, either in the US or globally? Where are we doing better than other places? What cities are doing something we could learn from? 
 
 ## data sets
 
@@ -68,7 +74,11 @@ see the full listing of data sets [here](data/)
 * respect others' opinions and abilities
 * no harassment of any kind will be tolerated
 
-If someone is behaving below these expectations and you can't resolve the issue, please contact the hackathon organizers at [email address]
+If someone is behaving below these expectations and you can't resolve the issue, please contact the hackathon organizers at any of the following email addresses:
+
+* Brian: romer.brian@gmail.com
+* Dietmar: d.offenhuber@northeastern.edu
+* Aleszu: a.bajak@northeastern.edu
 
 ## tools and languages
 
@@ -111,7 +121,7 @@ Over **$2000** of prizes and giveaways will be given out, including a Fire HD 8 
 
 ## sourcecode
 
-Participants will be asked to share 
+Participants will be asked to share their work by uploading code, data and design artifacts to github.
 
 ## sponsors
 
