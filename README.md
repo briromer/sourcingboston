@@ -64,6 +64,8 @@ For residents of the greater Boston area, how much do we spend on food in relati
 ### 5. Relative food wealth
 When it comes to food availability, quality and cost, how does Boston compare to other urban areas, either in the US or globally? Where are we doing better than other places? What cities are doing something we could learn from? 
 
+### 6., 7., 8. etc Make your own
+
 ## data sets
 see the full listing of data sets [here](data/datasets.md)
 
@@ -103,6 +105,9 @@ If someone is behaving below these expectations and you can't resolve the issue,
 * Chris Bosso, Northeastern
 * Tim Reardon, MAPC
 * Brian Romer, Thomson Reuters
+* Liz Allen, Northeastern University's Global Resilience Institute, Feeding Cities in an Era of Climate Change: A Case Study of Seattle’s Food-Energy-Water Nexus
+* Gideon Burdick, Marketing and Development Manager at Red Tomato, a Massachusetts food hub.
+* Leran Minc, Manager of Public Policy at Project Bread
 
 ## judging
 ### How will projects be judged?
