@@ -65,8 +65,7 @@ For residents of the greater Boston area, how much do we spend on food in relati
 When it comes to food availability, quality and cost, how does Boston compare to other urban areas, either in the US or globally? Where are we doing better than other places? What cities are doing something we could learn from? 
 
 ## data sets
-
-see the full listing of data sets [here](data/)
+see the full listing of data sets [here](data/datasets.md)
 
 ## code of conduct
 * arrive with an open mind, ready to collaborate
