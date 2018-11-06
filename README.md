@@ -4,7 +4,7 @@
 
 How stable and just is Boston's food system? What does it look like, in size and complexity? 
 
-On the weekend of November 10th and 11th, Northeastern University’s College of Arts, Media and Design and the Global Resilience Institute will host “Resilience Storytelling,” a hackathon where participants will explore data – from economic to environmental science to urban planning – to tell compelling stories and draw insights about food insecurity, economic disruption and resilience.
+On the weekend of November 10th and 11th, Northeastern University’s College of Arts, Media and Design and the Global Resilience Institute will host “Sourcing Boston,” a hackathon where participants will explore data – from economic to environmental science to urban planning – to tell compelling stories and draw insights about food insecurity, economic disruption and resilience.
 
 This event, in partnership with [Thomson Reuters Labs](https://innovation.thomsonreuters.com/en/labs.html) and [RStudio](https://www.rstudio.com/), will challenge participants to leverage data, analytics and visualization to find new ways of telling stories and deriving insights about how climate change and other shocks can disrupt food systems, supply chains and basic infrastructure in Boston.
 
@@ -13,13 +13,13 @@ This event, in partnership with [Thomson Reuters Labs](https://innovation.thomso
 ## logistics
 
 
-The hackathon will start with coffee, snacks and lightning talks in Behrakis Hall 320 (30 Leon Street, Boston), and then move to breakout sessions in Ryder Hall rooms 399, 399A, 403 and 405. 
+The hackathon will start with coffee, snacks and lightning talks in Behrakis Hall 010 (30 Leon Street, Boston), and then move to breakout sessions in Ryder Hall rooms 399, 399A, 403 and 405. 
 
 ![map of 30 Leon St Boston](images/map.png)
 
 [view on google maps](https://www.google.com/maps/place/Behrakis+Health+Sciences+Center,+30+Leon+St,+Boston,+MA+02115/@42.3371872,-71.0941257,16.34z/data=!4m5!3m4!1s0x89e37a2186d3bb6f:0xfd38cae6175b8ff6!8m2!3d42.3367142!4d-71.0916533)
 
-Lunches, snacks and drinks will be provided throughout the weekend.
+Lunches, snacks and drinks will be provided throughout the weekend. 
 
 ### timing
 
