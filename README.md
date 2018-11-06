@@ -1,4 +1,4 @@
-##### Visualizing the impact of climate change and other shocks to Boston's food system
+# Visualizing the impact of climate change and other shocks to Boston's food system
 
 ## overview
 
