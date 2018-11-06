@@ -4,7 +4,7 @@
 
 How stable and just is Boston's food system? What does it look like, in size and complexity? 
 
-On the weekend of November 10th and 11th, Northeastern University’s College of Arts, Media and Design and the Global Resilience Institute will host “Sourcing Boston,” a hackathon where participants will explore data – from economic to environmental science to urban planning – to tell compelling stories and draw insights about food insecurity, economic disruption and resilience.
+On the weekend of November 10th and 11th, Northeastern University’s College of Arts, Media and Design and the Global Resilience Institute will host **Sourcing Boston**, a hackathon where participants will explore data – from economic to environmental science to urban planning – to tell compelling stories and draw insights about food insecurity, economic disruption and resilience.
 
 This event, in partnership with [Thomson Reuters Labs](https://innovation.thomsonreuters.com/en/labs.html), [Red Tomato](https://www.redtomato.org/), and [Project Bread](http://www.projectbread.org/about-project-bread/), and with support from [RStudio](https://www.rstudio.com/), Northeastern's [Global Resilience Institute](https://globalresilience.northeastern.edu) and [TCB Analytics](http://tcbanalytics.com/), will challenge participants to leverage data, analytics and visualization to find new ways of telling stories and deriving insights about how climate change and other shocks can disrupt food systems, supply chains and basic infrastructure in Boston.
 
@@ -26,7 +26,7 @@ Lunches, snacks and drinks will be provided throughout the weekend.
 
 ## project directions
 
-Prizes will be awarded for projects that tackle the following:
+Participants are encouraged to team up, and to compose teams of people from different backgrounds and skillsets. Prizes will be awarded for projects that tackle the following:
 
 
 ### 1. Food supply chain chokepoints
@@ -63,6 +63,7 @@ If someone is behaving below these expectations and you can't resolve the issue,
 * Aleszu: a.bajak@northeastern.edu
 
 ## tools and languages
+Feel free to use any programming languages or tools you're familiar with, or that you know work well. If you need a few suggestions:
 
 ### data processing and analysis
 * [RStudio](https://www.rstudio.com/products/rstudio/)
