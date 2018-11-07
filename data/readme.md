@@ -1,63 +1,71 @@
-# sourcing Boston: data sets
+## US Data - Surveys, aggregated data
+[National Health and Nutrition Examination Survey](https://www.cdc.gov/nchs/nhanes/index.htm)  
+*Raw survey data, many different data sets*
+
+[US Dept. of Agriculture Survey Food Security survey data](https://www.ers.usda.gov/data-products/food-security-in-the-united-states)  
+*Raw survey data*
+
+[US dep. of Agriculture - food access atlas](https://www.ers.usda.gov/data-products/food-access-research-atlas/download-the-data/)  
+*Aggregated state- and countylevel data, convenient format*
+
+[MAPC Food security related data sets Massachusetts](https://datacommon.mapc.org/browser/Public%20Health/Food%20Systems)  
+*Food insecurity rates, meal gap, foodstamps*
+
+## Country-level Indicators
+[The Notre Dame Global Adaptation Initiative (ND-GAIN)
+](https://gain.nd.edu/our-work/country-index/download-data/)  
+*Country-level scores for climate change vulnerability and readines along the dimensions of Water, Agriculture, Health, Infrastructure, Food, Ecosystems*
+
+[World bank data catalog](https://data.worldbank.org/)  
+*Country-level data on sustainable development goals (SDGs), agriculture, poverty, climate change ...*
+
+[UN Comtrade Database](https://comtrade.un.org/data/)  
+*International exports and imports of goods, commodities, agricultural products.*
+
+[UN Food and Agriculture Organization Database](http://www.fao.org/statistics/databases/en/)  
+*The databases within FAO cover a broad spectrum of topics related to food security and agriculture*
+
+[Economist Food Security Index](https://foodsecurityindex.eiu.com/Country)  
+*Dataset prepared by the Economist Intelligence Unit. Downloadable excel model*
+
+[Unicef datasets](https://data.unicef.org/resources/resource-type/datasets/)  
+*Data on child health, malnutrition and mortality*
+
+## Data aggregators
+Food security-related web portals linking relevant data resources.
+
+[Food Security Portal](http://www.foodsecurityportal.org/api/)  
+*"The project brings together international, regional, and country-level data, news, and research aimed at meeting countries' immediate food security needs, as well as building long-term global food security."*
+
+[US National Library of Medicine Public Health Portal](https://phpartners.org/health_stats.html)  
+*Datasets related to public health*
+
+[NOAA Weather API](https://www.weather.gov/documentation/services-web-api)
+
+[Accuweather API ($25 for 1 mo)](https://developer.accuweather.com/packages)
+
+[OpenWeather Map](https://openweathermap.org/history)
+
+[data.boston.gov](https://data.boston.gov/)
+
+## Information and reports (no machine readable data)
+[Food and Agriculture Organization report](http://www.fao.org/state-of-food-security-nutrition/en/)  
+
+[Unicef report state of food security](https://data.unicef.org/resources/state-food-security-nutrition-world/)
+
+[Boston Food access lists and maps](https://www.boston.gov/departments/food-access)  
+*Food resource maps and lists - in pdf format*
+
+[Project Bread Massachusetts](http://www.projectbread.org/get-the-facts/)  
+*Statistics and infographics, but no datasets*
+
+[Massachusetts Agricultural Census](https://ag.umass.edu/resources/massachusetts-agricultural-data/about-agricultural-census)  
+*Fine-grained data, but tables mostly embedded in websites*
+
+[Massachusetts Food Systems Plan](https://www.mapc.org/our-work/expertise/public-health/healthy-food-access/)
+
+[Mass Food Accessibility index - Tufts / MAPC](https://as.tufts.edu/uep/sites/all/themes/asbase/assets/documents/fieldProjectReports/2016/MAfoodAccessIndex.pdf)
+
+[Boston Public Health Commission Report](http://www.bphc.org/healthdata/health-of-boston-report)
 
 
-### Boston-local data
-[Boston Food access open data](https://www.boston.gov/departments/food-access)
- 
-
-[Project Bread Massachusetts](http://www.projectbread.org/get-the-facts/)
-
-Local farms and their local supply chains into boston
-
-[Mass Agricultural Census](https://ag.umass.edu/resources/massachusetts-agricultural-data/about-agricultural-census)
-	
-Socio-economic inequality in boston due to food deserts / cost of healthy food
-[Mass Food Accessibility index - Tufts](https://as.tufts.edu/uep/sites/all/themes/asbase/assets/documents/fieldProjectReports/2016/MAfoodAccessIndex.pdf)
-
-[USDA Food Data](https://www.ers.usda.gov/data-products/)
-	[Food availability](https://www.ers.usda.gov/data-products/food-availability-per-capita-data-system/)
-	[Food atlas](https://www.ers.usda.gov/data-products/food-access-research-atlas/go-to-the-atlas/)
-	[Food composition](https://ndb.nal.usda.gov/ndb/)
-Public health impacts of these inequalities 
-
-[Health of Boston Report (State)](http://www.bphc.org/healthdata/health-of-boston-report/Documents/HOB-2014-2015/2_SocDetermin_HOB%202014-2015.pdf)
-
-[National health data](https://phpartners.org/health_stats.html)
-
-Boston's procurement and supply-chains (also commercial supply chains)
-
-Weather and climate data, disasters
-
-Citizen science observations of local climate change (changes in the biosphere, indicators)
-
-[MassAudubon - firefly watch data](https://www.massaudubon.org/get-involved/citizen-science/firefly-watch/view-explore-data)
-
-how crises in haiti, puerto rico etc. affected boston (also immigration etc.)
-
-news events connected to these issues
-
-### international data
-
-Worldwide data on population, health, technology adoption, workforce etc
-
-[World Bank Data](https://data.worldbank.org/)
-
-Global Trade Data
-
-[UN Comtrade](https://comtrade.un.org/data/)
-
-[US dep. of Agriculture - National Survey Food Security in the United States](https://www.ers.usda.gov/data-products/food-security-in-the-united-states )
-
-[Food security portal - International Food Policy Research Institute](http://www.foodsecurityportal.org/api)
-
-[Food and Agriculture Organization report](http://www.fao.org/state-of-food-security-nutrition/en/)
-
-[Economist Food Security Index](https://foodsecurityindex.eiu.com/Country)
-
-[Unicef report](https://data.unicef.org/resources/state-food-security-nutrition-world/)  
-
-[National Health and Nutrition Examination Survey](https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/FSQ_H.htm)
-
-[Data Africa](https://dataafrica.io/)
-
-[
