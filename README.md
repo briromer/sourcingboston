@@ -39,7 +39,7 @@ Access to good, affordable food isn't a feature of every neighborhood. Which one
 Climate change is already altering seasonal patterns, ocean surface temperature, the number and intensity of tropical storms, and polar ice. How do these changes affect our ability to produce and transport food? Which crops - among the ones we import the most, and the ones we produce the most - are most vulnerable to climate change? How will Massachussets farms and fisheries be affected? 
 
 ### 4. Comparative costs of food
-For residents of the greater Boston area, how much do we spend on food in relation to our incomes? For those who have difficulty accessing good quality food, what other costs are associated with that? 
+For residents of the greater Boston area, how much do we spend on food in relation to our incomes? For those who have difficulty accessing good quality food, what other costs are associated with that? How much food is wasted, where and when? 
 
 ### 5. Relative food wealth
 When it comes to food availability, quality and cost, how does Boston compare to other urban areas, either in the US or globally? Where are we doing better than other places? What cities are doing something we could learn from? 
@@ -100,7 +100,7 @@ On Sunday at 1pm, Thomson Reuters data scientist Liz Roman, Northeastern profess
 * *Accuracy*: Are the data correctly sourced, well-curated and well cleaned? Can we trace the sources back to verify the results?
 * *Interesting Research Question and Analytic Value*: Can you provide data-driven answers which are hard to get elsewhere?
 * *Aesthetics*: Is it beautiful and a joy to use?
-Extensibility: Could this be extended and/or incorporated into a larger system?
+* *Extensibility*: Could this be extended and/or incorporated into a larger system?
 
 ## prizes
 Over **$2,000** of prizes and giveaways will be given out, including a Fire HD 8 Tablet, GoPro Hero4 Session camera, Anker Soundcore Bluetooth speaker, a FlashForge 3D Printer and many more!

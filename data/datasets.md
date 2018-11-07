@@ -40,6 +40,14 @@ Food security-related web portals linking relevant data resources.
 [US National Library of Medicine Public Health Portal](https://phpartners.org/health_stats.html)  
 *Datasets related to public health*
 
+[NOAA Weather API](https://www.weather.gov/documentation/services-web-api)
+
+[Accuweather API ($25 for 1 mo)](https://developer.accuweather.com/packages)
+
+[OpenWeather Map](https://openweathermap.org/history)
+
+[data.boston.gov](https://data.boston.gov/)
+
 ## Information and reports (no machine readable data)
 [Food and Agriculture Organization report](http://www.fao.org/state-of-food-security-nutrition/en/)  
 
