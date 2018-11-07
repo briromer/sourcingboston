@@ -103,7 +103,7 @@ On Sunday at 1pm, Thomson Reuters data scientist Liz Roman, Northeastern profess
 * *Extensibility*: Could this be extended and/or incorporated into a larger system?
 
 ## prizes
-Over **$2,000** of prizes and giveaways will be given out, including a Fire HD 8 Tablet, GoPro Hero4 Session camera, Anker Soundcore Bluetooth speaker, a FlashForge 3D Printer and many more!
+Over **$1500** of prizes and giveaways will be given out, including Fire HD 8 Tablets, a GoPro Hero3+ camera, Anker Soundcore Bluetooth speakers, Amazon Echo Dots and many more!
 
 ## sourcecode
 
