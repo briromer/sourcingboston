@@ -85,8 +85,7 @@ Feel free to use any programming languages or tools you're familiar with, or tha
 
 ## speakers
 
-* Tim Reardon, MAPC
-* Brian Romer, Thomson Reuters
+* Brian Romer, Thomson Reuters Labs
 * Liz Allen, Northeastern University's Global Resilience Institute, Feeding Cities in an Era of Climate Change: A Case Study of Seattle’s Food-Energy-Water Nexus
 * Gideon Burdick, Marketing and Development Manager at Red Tomato, a Massachusetts food hub.
 * Leran Minc, Manager of Public Policy at Project Bread
