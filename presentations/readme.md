@@ -1,7 +1,7 @@
 
 # Presentations
 
-Introductory slides [here](https://drive.google.com/open?id=1JoiLLSH_Bi-Hj7rO5TTVyYN6YNvNJYKS)
+Introductory slides [here](https://docs.google.com/presentation/d/13Yf7TvGgmO5tCfey0NFb58XmVDBV1q1YEL0erZk-hdE/edit?usp=sharing)
 
 Project Bread [here](https://drive.google.com/open?id=146WEpaBjRCLQE5GBnKqZnDM3D3jxDz-A)
 
