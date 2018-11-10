@@ -48,7 +48,7 @@ When it comes to food availability, quality and cost, how does Boston compare to
 Participants may choose to pursue a custom project. Check in with judges and coaches to make sure it's eligible for a prize!
 
 ## data sets
-see the full listing of data sets [here](data/datasets.md)
+see the full listing of data sets [here](data/readme.md)
 
 ## code of conduct
 * arrive with an open mind, ready to collaborate
