@@ -37,7 +37,7 @@ ps <- left_join(sal, pur_g, by = "Itemcode") %>%
 
 
 ###### Keep only apples and peaches
-ps <- ps %>% filter(grepl("^APP|^PCH", Itemcode)) # how much aer yo upaying for eco bags, grep by apply after excluding ^APP
+ps <- ps %>% filter(grepl("^APP", Itemcode)) # how much aer yo upaying for eco bags, grep by apply after excluding ^APP
 
 ###### Drop one inactive row
 ps <- ps %>% filter(!grepl("INACTIVE", Description))
@@ -87,7 +87,11 @@ ps <- ps %>%
   mutate(ECO_status = grepl("E", Itemcode)) %>%
   mutate(ECO_visible = (grepl("tote | polybag", Description) & ECO_status))
 
-ps %>% filter(Description == "Apple McIntosh ECO 125s            ") %>% View()
+ps <- ps %>% 
+  mutate(Item_group = gsub("[[:digit:][:punct:]]","", Description)) %>% 
+  mutate(Item_group = gsub("ECO|tote|polybag", "", Item_group)) %>% 
+  mutate(Item_group = trimws(Item_group)) %>% 
+  mutate(Item_group = gsub(" s$", "", Item_group))
 
 
 
