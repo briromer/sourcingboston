@@ -13,11 +13,11 @@ No more than 5 slides. No more than 5 minutes.
 ## How will projects be judged?
 Thomson Reuters data scientist Liz Roman, Northeastern professor Christopher Bosso and Northeastern data visualization expert Steven Braun will judge projects on the following criteria:
 
-Clarity: Does the project make sense and communicate well? Is it easy to understand, use and gain insight from?
-Accuracy: Are the data correctly sourced, well-curated and well cleaned? Can we trace the sources back to verify the results?
-Interesting Research Question and Analytic Value: Can you provide data-driven answers which are hard to get elsewhere?
-Aesthetics: Is it beautiful and a joy to use?
-Extensibility: Could this be extended and/or incorporated into a larger system?
+* Clarity: Does the project make sense and communicate well? Is it easy to understand, use and gain insight from?
+* Accuracy: Are the data correctly sourced, well-curated and well cleaned? Can we trace the sources back to verify the results?
+* Interesting Research Question and Analytic Value: Can you provide data-driven answers which are hard to get elsewhere?
+* Aesthetics: Is it beautiful and a joy to use?
+* Extensibility: Could this be extended and/or incorporated into a larger system?
 
 ## overview
 
