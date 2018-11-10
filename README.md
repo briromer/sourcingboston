@@ -1,5 +1,5 @@
 # Visualizing the impact of climate change and other shocks to Boston's food system
-## update: Teams and Presentations
+## Update: Teams and Presentations
 [fill in your team name, topic, members, and link to presentation here](https://docs.google.com/document/d/12bCjUike9a0aQE6DXmyS04jfW3_wSE9gKP9V4V0m6us/edit#heading=h.k2uuix31cgvw)
 
 ## overview
