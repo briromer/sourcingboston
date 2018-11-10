@@ -2,6 +2,14 @@
 ## Update: Teams and Presentations
 [fill in your team name, topic, members, and link to presentation here](https://docs.google.com/document/d/12bCjUike9a0aQE6DXmyS04jfW3_wSE9gKP9V4V0m6us/edit#heading=h.k2uuix31cgvw)
 
+## Presentation outline
+No more than 5 slides. No more than 5 minutes. 
+
+* Need
+* Process
+* Solution
+* Reflection/Future Work/Wishlist
+
 ## overview
 
 How stable and just is Boston's food system? What does it look like, in size and complexity? 
